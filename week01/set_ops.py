@@ -1,4 +1,6 @@
 
+# sets can be used for summing and substracting lists. It consideres duplicates.
+
 def mutual_friends(a: list[str], b: list[str]) -> set[str]:
     return set(a) and set(b)
 

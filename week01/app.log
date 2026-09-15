@@ -1,0 +1,9 @@
+2026-01-01 10:02:13 INFO Application started
+2026-01-01 10:02:15 INFO Connected to database
+2026-01-01 10:04:01 WARNING Disk usage at 85%
+2026-01-01 10:04:47 ERROR Failed to write cache file
+2026-01-01 10:05:02 INFO Retrying cache write
+2026-01-01 10:05:03 ERROR Failed to write cache file
+2026-01-01 10:07:30 INFO No ERROR entries in previous run
+2026-01-01 10:09:12 ERROR Connection to database lost
+2026-01-01 10:09:15 INFO Shutting down

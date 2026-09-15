@@ -1,0 +1,17 @@
+Alice,92
+Bob,78
+Charlie,85
+Dana,not_a_number
+Eve,95
+Frank,67
+  Grace , 88
+Heidi,
+Ivan,73
+Judy,91
+,50
+Karl,85
+Alice,60
+Liam,84,extra
+Mia,100
+ 
+ 
